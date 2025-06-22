@@ -1,6 +1,6 @@
 {
   "sc zedezada v2": {
-    "total yang telah menggunakan": 1318,
+    "total yang telah menggunakan": 1319,
     "data": [
       {
         "nomor": "6281324406984",
@@ -5267,6 +5267,10 @@
       {
         "nomor": "6282174196407",
         "last_used": "2025-06-22T09:58:43.202Z"
+      },
+      {
+        "nomor": "6288291113100",
+        "last_used": "2025-06-22T10:07:04.515Z"
       }
     ]
   }
