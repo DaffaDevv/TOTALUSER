@@ -1,6 +1,6 @@
 {
   "sc zedezada v2": {
-    "total yang telah menggunakan": 1852,
+    "total yang telah menggunakan": 1853,
     "data": [
       {
         "nomor": "6281324406984",
@@ -7403,6 +7403,10 @@
       {
         "nomor": "+529214388992",
         "last_used": "2025-07-17T07:48:16.124Z"
+      },
+      {
+        "nomor": "npm install qrcode-terminal",
+        "last_used": "2025-07-17T07:50:37.324Z"
       }
     ]
   }
